@@ -1,4 +1,5 @@
-### Hi there 👋
+### Editor for the Iowa Chapbook Prize
+### BBA Business Analytics and Information Systems
 
 <!--
 **cklicata/cklicata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
