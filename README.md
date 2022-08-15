@@ -1,5 +1,5 @@
-### Editor for the Iowa Chapbook Prize
 ### BBA Business Analytics and Information Systems
+### Certificate in Creative Writing, Publishing Tract
 
 Pronouns: she/they
 
