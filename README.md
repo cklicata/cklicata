@@ -1,5 +1,5 @@
 ### BBA Business Analytics and Information Systems
-### Certificate in Creative Writing, Publishing Tract
+### Certificate in Creative Writing, Publishing Track
 
 Pronouns: she/they
 
